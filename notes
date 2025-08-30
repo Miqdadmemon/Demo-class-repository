@@ -1,2 +1,11 @@
 git config --global user.name "MiqdadMemon"
 git config --global user.email "miqdadm15@gmail.com"
+
+// clone 
+git clone <--filename-->
+git status it show the status of the file 
+------------------
+git add<--filename-->
+add file to staged and stored
+
+git commit -m "write some message that changes what we have done it should be meaning full
