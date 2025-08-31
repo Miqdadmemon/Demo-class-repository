@@ -9,3 +9,5 @@ git add<--filename-->
 add file to staged and stored
 
 git commit -m "write some message that changes what we have done it should be meaning full
+
+git push origin main : full used to push the file to git to its original destination
