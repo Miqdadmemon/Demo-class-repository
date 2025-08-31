@@ -11,3 +11,9 @@ add file to staged and stored
 git commit -m "write some message that changes what we have done it should be meaning full
 
 git push origin main : full used to push the file to git to its original destination
+
+init command used for if we create a directory in vs code there is no git tracking to it for
+ to know it is a git directory we use git init.
+
+
+ -----further detail in project 2 directory.
